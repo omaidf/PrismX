@@ -96,7 +96,7 @@ simplejson==3.13.2
 six==1.13.0
 soupsieve==2.0.1
 sqlitedict==1.7.0
-sqlparse==0.3.0
+sqlparse==0.4.4
 tempora==3.0.0
 testresources==2.0.1
 urllib3==1.22
